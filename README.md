@@ -6,7 +6,7 @@ It modifies the `index.html` file in Jellyfin's web directory in order to load
 a script required by the Jellyscrub plugin.
 
 ## How to use it
-Simply add `alistairporter/kdkasad/docker-mods:jellyfin-jellyscrub` to the
+Simply add `ghcr.io/alistairporter/docker-mods:jellyfin-jellyscrub` to the
 `DOCKER_MODS` environment variable for your Jellyfin container.
 
 The `JELLYFIN_PublishedServerUrl` environment variable must also be defined
