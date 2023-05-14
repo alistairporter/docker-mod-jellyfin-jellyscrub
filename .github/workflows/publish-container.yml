@@ -19,7 +19,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: kdkasad/docker-mods
+  IMAGE_NAME: alistairporter/docker-mods
   MOD_NAME: jellyfin-jellyscrub
 
 jobs:
